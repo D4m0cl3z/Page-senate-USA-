@@ -1,0 +1,71 @@
+#caja {
+  display: flex;
+  justify-content: space-between;
+  background-color: #343a4017;
+}
+#logo {
+  margin-left: 2%;
+  margin-top: 1%;
+
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 0.5%;
+}
+
+.color {
+  background-color: #343a4017;
+}
+
+.nav-link {
+  color: black;
+}
+
+#logo1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 18%;   
+}
+
+
+
+
+#parrafo {
+  margin-top: 3vh;
+  width: 70vw;
+  display: inline-block;
+}
+#parrafo p {
+  margin-top: 3vh;
+  text-indent: 5em;
+}
+
+.parrafo1 {
+  width: 40vw;
+}
+.parrafo2{
+    width: 40vw;
+}
+
+#caja a {
+  right: 9vw;
+  top: 14vh;
+  position: absolute;
+}
+
+footer {
+  margin-top: 15vh;
+  height: 10vh;
+}
+
+h2 {
+  color: black;
+}
+
+h3 {
+  color: black;
+}
